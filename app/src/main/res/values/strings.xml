@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">History app</string>
+    <string name="button_text1">generateAnswer</string>
+    <string name="button.text">Clear</string>
+    <string name="editTextNumber">e.g.20</string>
+    <string name="ageString">EnterAge</string>
+    <string name="EditText">EditText</string>
+</resources>
+
